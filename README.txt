@@ -1,0 +1,1 @@
+Bonjour, ce projet est la cération d'un repository pour découvrir comment fonctionne git
